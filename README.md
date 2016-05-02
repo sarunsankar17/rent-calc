@@ -1,2 +1,2 @@
-# rent-calc
-internal purpose
+welcome to git now editing in git submaster file
+ 
